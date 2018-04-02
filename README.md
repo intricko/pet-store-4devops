@@ -23,4 +23,4 @@ To deploy to stackato:
     mvn clean package 
     stackato push -n
 
-You can view the application at the 'Application Deployed URL'.
+You can view the application at the 'Application Deployed URL'. 
